@@ -1,6 +1,6 @@
 package com.shuyinqi.guava;
 
-import com.esotericsoftware.kryo.serializers.FieldSerializer;
+
 import com.google.common.base.Optional;
 
 import javax.swing.text.html.Option;
